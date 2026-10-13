@@ -5,7 +5,6 @@
 **Free up tens of GBs in seconds. Find and delete `node_modules`, `dist`, `build`, `.next`, `.cache`, `__pycache__`, `target` and other disposable folders across all your old projects, with one click.**
 
 [![Release](https://img.shields.io/github/v/release/SupervisorExpiate86/devsweep-node-modules-cleaner?style=flat-square)](https://github.com/YOUR_USERNAME/devsweep-node-modules-cleaner/releases)
-[![Downloads](https://img.shields.io/github/downloads/SupervisorExpiate86/devsweep-node-modules-cleaner/total?style=flat-square)](https://github.com/SupervisorExpiate86/devsweep-node-modules-cleaner/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)](#installation)
 [![Stars](https://img.shields.io/github/stars/SupervisorExpiate86/devsweep-node-modules-cleaner?style=flat-square)](https://github.com/YOUR_USERNAME/devsweep-node-modules-cleaner/stargazers)
