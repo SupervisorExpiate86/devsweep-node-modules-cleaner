@@ -7,7 +7,7 @@
 [![Release](https://img.shields.io/github/v/release/SupervisorExpiate86/devsweep-node-modules-cleaner?style=flat-square)](https://github.com/YOUR_USERNAME/devsweep-node-modules-cleaner/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=flat-square)](#installation)
-[![Stars](https://img.shields.io/github/stars/SupervisorExpiate86/devsweep-node-modules-cleaner?style=flat-square)](https://github.com/YOUR_USERNAME/devsweep-node-modules-cleaner/stargazers)
+[![Stars](https://img.shields.io/github/stars/SupervisorExpiate86/devsweep-node-modules-cleaner?style=flat-square)](https://github.com/SupervisorExpiate86/devsweep-node-modules-cleaner/stargazers)
 
 [Download](#installation) · [Features](#features) · [How it works](#how-it-works) · [FAQ](#faq) · [Contributing](#contributing)
 
